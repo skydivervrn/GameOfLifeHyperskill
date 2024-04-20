@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Game of Life (Go)/*
+!/Game of Life (Go)/task/
+/Game of Life (Go)/task/*
+!/Game of Life (Go)/task/main.go
+!/Game of Life (Go)/task/go_build_main_go
